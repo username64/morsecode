@@ -1,2 +1,2 @@
 # morsecode
-Coming soon (TM)
+MorseCode project for school, it's great
